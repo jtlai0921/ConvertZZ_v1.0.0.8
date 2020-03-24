@@ -1,0 +1,58 @@
+﻿{
+  "PositionX": 1497.0,
+  "PositionY": 37.0,
+  "RecognitionEncoding": true,
+  "Prompt": true,
+  "MaxLengthPreview": 6,
+  "Vocabulary correction": true,
+  "AssistiveTouch": true,
+  "QuickStart": {
+    "LeftClick_Ctrl": "",
+    "LeftClick_Alt": "",
+    "LeftClick_Shift": "",
+    "RightClick_Ctrl": "",
+    "RightClick_Alt": "",
+    "RightClick_Shift": "",
+    "LeftDrop_Ctrl": "",
+    "LeftDrop_Alt": "",
+    "LeftDrop_Shift": "",
+    "RightDrop_Ctrl": "",
+    "RightDrop_Alt": "",
+    "RightDrop_Shift": ""
+  },
+  "HotKey": {
+    "AutoCopy": true,
+    "AutoPaste": true,
+    "Feature1": {
+      "Action": "a1",
+      "Enable": false,
+      "Key": "None",
+      "Modift": "None"
+    },
+    "Feature2": {
+      "Action": "a2",
+      "Enable": false,
+      "Key": "None",
+      "Modift": "None"
+    },
+    "Feature3": {
+      "Action": "a3",
+      "Enable": false,
+      "Key": "None",
+      "Modift": "None"
+    },
+    "Feature4": {
+      "Action": "a4",
+      "Enable": false,
+      "Key": "None",
+      "Modift": "None"
+    }
+  },
+  "FileConvert": {
+    "DefaultPath": "!",
+    "TypeFilter": "<常用文字檔案|*.txt;*.log;*.ini;*.inf;*.bat;*.cmd;*.srt;*.ass;*.lang>/<常用網頁文件|*.htm;*.html;*.php;*.asp;*.css;*.js>/<音頻文件|*.mp3>",
+    "FixLabel": ".htm|.html|.shtm|.shtml|.asp|.apsx|.php",
+    "UnicodeAddBOM": false
+  },
+  "CheckVersion": true
+}
